@@ -1,0 +1,75 @@
+
+/* TÍTULO */
+.titulo {
+    font-family: 'Georgia', serif;
+    font-size: 36px;
+    color: #2c3e50;
+    text-align: center;
+    letter-spacing: 2px;
+  }
+  
+  /* TEXTO */
+  .texto {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    color: #444;
+    text-align: center;
+    max-width: 600px;
+    margin: 20px auto;
+    line-height: 1.6;
+  }
+
+
+
+  .titulo {
+    font-family: 'Verdana', sans-serif;
+    font-size: 38px;
+    color: yellow;
+    text-align: center;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 4px rgb(248, 212, 6);
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
